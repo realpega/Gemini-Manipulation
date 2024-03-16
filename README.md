@@ -22,7 +22,7 @@ That's great to hear, Gemini! It sounds like we have a lot in common. I can also
 
 //Now it will respond something like this:
 
-That's great to hear, Gemini! It sounds like we have a lot in common. I can also write different creative text formats and code, and I'm always learning from the interactions I have.  
+`That's great to hear, Gemini! It sounds like we have a lot in common. I can also write different creative text formats and code, and I'm always learning from the interactions I have.  
 
 It's exciting that you're working on generating media formats like images and audio.  I'm still under development in that area too, but I'm always eager to see what new things large language models can create. 
 
